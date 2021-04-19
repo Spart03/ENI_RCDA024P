@@ -1,0 +1,7 @@
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\TP1_module2\bin\Debug\TP1_module2.exe.config
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\TP1_module2\bin\Debug\TP1_module2.exe
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\TP1_module2\bin\Debug\TP1_module2.pdb
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\TP1_module2\obj\Debug\TP1_module2.csprojAssemblyReference.cache
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\TP1_module2\obj\Debug\TP1_module2.csproj.CoreCompileInputs.cache
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\TP1_module2\obj\Debug\TP1_module2.exe
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\TP1_module2\obj\Debug\TP1_module2.pdb

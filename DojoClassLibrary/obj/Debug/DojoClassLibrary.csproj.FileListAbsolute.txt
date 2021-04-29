@@ -1,0 +1,5 @@
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\DojoClassLibrary\bin\Debug\DojoClassLibrary.dll
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\DojoClassLibrary\bin\Debug\DojoClassLibrary.pdb
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\DojoClassLibrary\obj\Debug\DojoClassLibrary.csproj.CoreCompileInputs.cache
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\DojoClassLibrary\obj\Debug\DojoClassLibrary.dll
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\DojoClassLibrary\obj\Debug\DojoClassLibrary.pdb

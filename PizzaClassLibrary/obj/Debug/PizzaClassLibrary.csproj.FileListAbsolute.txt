@@ -1,0 +1,6 @@
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\PizzaClassLibrary\bin\Debug\PizzaClassLibrary.dll
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\PizzaClassLibrary\bin\Debug\PizzaClassLibrary.pdb
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\PizzaClassLibrary\obj\Debug\PizzaClassLibrary.csproj.CoreCompileInputs.cache
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\PizzaClassLibrary\obj\Debug\PizzaClassLibrary.dll
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\PizzaClassLibrary\obj\Debug\PizzaClassLibrary.pdb
+D:\Logiciels dev web\dossier_ASP\ENI_RCDA024P_2021_OK\PizzaClassLibrary\obj\Debug\PizzaClassLibrary.csprojAssemblyReference.cache

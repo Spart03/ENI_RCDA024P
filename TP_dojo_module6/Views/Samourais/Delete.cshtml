@@ -1,0 +1,21 @@
+﻿@model DojoClassLibrary.Entities.Samourai
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Supprimer le samourai</h2>
+<h3>Etes vous sur de vouloir supprimer cet élément ?</h3>
+<div>
+    @Html.Partial("_DetailsDeleteSamourai", Model)
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Supprimer" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

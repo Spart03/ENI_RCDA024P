@@ -1,0 +1,17 @@
+﻿@model DojoClassLibrary.Entities.Samourai
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Détails d'un samouraï</h2>
+
+<h4>Samourai</h4>
+<hr />
+<div>
+    @Html.Partial("_DetailsDeleteSamourai", Model)
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
